@@ -1,0 +1,5 @@
+- 👋 Hello, I'm Gustavo Dantas
+- 🌱 I'm currently learning... c++
+- 💞️ I'm looking to collaborate on projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like physics
